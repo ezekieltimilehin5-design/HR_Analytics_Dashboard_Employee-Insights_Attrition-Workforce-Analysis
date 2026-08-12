@@ -35,9 +35,17 @@ Deliverables:
 
 <img width="978" height="550" alt="Home overview" src="https://github.com/user-attachments/assets/e2a9f78a-3d78-4058-b5bd-829ee3814149" />
 
+
+
 <img width="997" height="553" alt="Action srnshot" src="https://github.com/user-attachments/assets/a9965b21-a38b-4d4b-b542-c595e03529ab" />
 
+
+
 <img width="971" height="547" alt="Details screenshot" src="https://github.com/user-attachments/assets/63caab0b-e11d-4724-8768-6c63eebe8272" />
+
+
+
+
 
 
 
