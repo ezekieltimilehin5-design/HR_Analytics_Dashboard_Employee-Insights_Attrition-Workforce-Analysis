@@ -1,0 +1,2 @@
+# HR_Analytics_Dashboard_Employee-Insights_Attrition-Workforce-Analysis
+I analyzed an employee dataset to uncover actionable insights into workforce demographics, employee attrition, job satisfaction, performance, and other key HR metrics.  The project involved cleaning and transforming the dataset, analyzing employee data, creating calculated metrics, and developing an interactive HR analytics dashboard.
